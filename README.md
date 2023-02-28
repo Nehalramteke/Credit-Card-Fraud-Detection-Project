@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Project
+# Credit Card Fraud Detection
 ## Machine Learning Project
 
 > 1. Downloaded the Dataset from Kaggle.
