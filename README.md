@@ -1,4 +1,5 @@
 # Credit-Card-Fraud-Detection-Project
+## Machine Learning Project
 
 > 1. Downloaded the Dataset from Kaggle.
 
@@ -6,10 +7,7 @@
     
 > 2. Prepared the Dataset in the Jupyter Notebook.
 
-> 3. Worked on the Dataset to make it ready for Web Application. 
+> 3. Build a model of Prediting whether the Transaction is Legit or Fraud.
 
-> 4. Used Numpy, Pandas, Machine Learning Algorithm (Logistic Regression) for Data Analysis & Data Visualization & performed ETL. 
+> 4. Used Logistic Regression for the Prediction.
 
-> 5. Created a Web Application in Pycharm using Streamlit.
-
-> 6. Finally Uploaded to AWS EC2 Server.
